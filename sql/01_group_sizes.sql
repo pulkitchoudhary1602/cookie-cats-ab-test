@@ -1,0 +1,1 @@
+SELECT version, COUNT(*) AS players FROM players GROUP BY version;
